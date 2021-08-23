@@ -1,0 +1,15 @@
+{
+  "training_data_path": "/home/user/airflow/models/data/training_data.csv",
+  "testing_data_path": "/home/user/airflow/models/data/testing_data.csv",
+   "train_x_a": "/home/user/airflow/models/data/train_x_a.csv",
+   "train_y_a": "/home/user/airflow/models/data/train_y_a.csv",
+   "test_x": "/home/user/airflow/models/data/test_x.csv",
+   "test_y": "/home/user/airflow/models/data/test_y.csv",
+   "scaled_training_data": "/home/user/airflow/models/data/scaled_training_data.csv",
+   "scaled_testing_data": "/home/user/airflow/models/data/scaled_testing_data.csv",
+   "LR_results": "/home/user/airflow/models/results/LR_results.csv",
+   "transformed_data": "/home/user/airflow/models/data/transformed_data.csv",
+   "PR_results": "/home/user/airflow/models/results/PR_results.csv",
+   "Lasso_results": "/home/user/airflow/models/results/Lasso_results.csv",
+   "SVR_results": "/home/user/airflow/models/results/SVR_results.csv"
+}
