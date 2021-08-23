@@ -1,6 +1,6 @@
 # Car Price Prediction - Building ML Pipeline using Apache Airflow
 
-I built a simple ML pipeline to automate the workflow of my Car Price Prediction task by using Apache AirFlow which is a platform that helps to programmatically author, schedule and monitor workflows.
+I built a simple ML pipeline to automate the workflow of my Car Price Prediction (which makes predict Car Prices using Linear, Polynomial, Lasso and Support Vector Regressions to compare the results of each and choose the best model) task by using Apache AirFlow which is a platform that helps to programmatically author, schedule and monitor workflows.
 
 Once you have Apache Airflow installed on your machine, you can simply start it by using the following commands,
 
